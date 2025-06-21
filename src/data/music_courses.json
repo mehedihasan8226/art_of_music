@@ -1,0 +1,106 @@
+{
+     "courses" : [
+  {
+    "id": 1,
+    "title": "Beginner Guitar Lessons",
+    "slug": "beginner-guitar-lessons",
+    "description": "Learn to play acoustic and electric guitar from scratch with step-by-step video tutorials.",
+    "price": 49.99,
+    "instructor": "Alex Johnson",
+    "isFeatured": true,
+    "image": "https://example.com/images/beginner-guitar.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Piano for Beginners",
+    "slug": "piano-for-beginners",
+    "description": "Master the basics of piano playing with practical lessons and easy-to-follow exercises.",
+    "price": 39.99,
+    "instructor": "Emily Carter",
+    "isFeatured": false,
+    "image": "https://example.com/images/piano-beginners.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mastering Music Theory",
+    "slug": "mastering-music-theory",
+    "description": "Understand the foundation of music theory including scales, chords, and progressions.",
+    "price": 59.99,
+    "instructor": "Dr. Liam Brooks",
+    "isFeatured": true,
+    "image": "https://example.com/images/music-theory.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Singing Essentials",
+    "slug": "singing-essentials",
+    "description": "Improve your vocal skills and learn breathing techniques with this comprehensive singing course.",
+    "price": 29.99,
+    "instructor": "Sophie Lee",
+    "isFeatured": false,
+    "image": "https://example.com/images/singing-essentials.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Electronic Music Production",
+    "slug": "electronic-music-production",
+    "description": "Create your own electronic tracks using professional DAWs and plugins.",
+    "price": 69.99,
+    "instructor": "Markus Vega",
+    "isFeatured": true,
+    "image": "https://example.com/images/electronic-music.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Jazz Improvisation Techniques",
+    "slug": "jazz-improvisation-techniques",
+    "description": "Explore the art of improvisation with practical jazz exercises and theory.",
+    "price": 54.99,
+    "instructor": "Nina Scott",
+    "isFeatured": false,
+    "image": "https://example.com/images/jazz-improvisation.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Drumming Basics",
+    "slug": "drumming-basics",
+    "description": "Learn rhythm, timing, and techniques for drumming using practice pads and drum kits.",
+    "price": 44.99,
+    "instructor": "Ryan Mitchell",
+    "isFeatured": true,
+    "image": "https://example.com/images/drumming-basics.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Advanced Violin Mastery",
+    "slug": "advanced-violin-mastery",
+    "description": "Take your violin skills to the next level with this expert-led advanced course.",
+    "price": 79.99,
+    "instructor": "Isabella Rossi",
+    "isFeatured": true,
+    "image": "https://example.com/images/violin-mastery.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Ukulele Strumming Patterns",
+    "slug": "ukulele-strumming-patterns",
+    "description": "Discover fun and effective strumming techniques to enhance your ukulele playing.",
+    "price": 24.99,
+    "instructor": "Tom Rivera",
+    "isFeatured": false,
+    "image": "https://example.com/images/ukulele-strumming.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Music Composition for Film",
+    "slug": "music-composition-for-film",
+    "description": "Learn to compose cinematic music that evokes emotion and fits perfectly with visual scenes.",
+    "price": 99.99,
+    "instructor": "Clara Bennett",
+    "isFeatured": true,
+    "image": "https://example.com/images/film-composition.jpg"
+  }
+]
+}
+
+
