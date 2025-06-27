@@ -2,6 +2,7 @@ import { main } from 'motion/react-client'
 import React from 'react'
 import HeroSection from "@/components/HeroSection"
 import FeaturedSection from '@/components/FeaturedSection'
+import WhyChooseUs from '@/components/WhyChooseUs'
 
 export default function page() {
   return (
@@ -12,6 +13,8 @@ export default function page() {
 
       <HeroSection />
       <FeaturedSection />
+
+      <WhyChooseUs />
     </main>
   )
 }
