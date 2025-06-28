@@ -3,6 +3,7 @@ import React from 'react'
 import HeroSection from "@/components/HeroSection"
 import FeaturedSection from '@/components/FeaturedSection'
 import WhyChooseUs from '@/components/WhyChooseUs'
+import MusicSchoolTestimonials from '@/components/TestimonialCards'
 
 export default function page() {
   return (
@@ -15,6 +16,7 @@ export default function page() {
       <FeaturedSection />
 
       <WhyChooseUs />
+      <MusicSchoolTestimonials/>
     </main>
   )
 }
