@@ -5,6 +5,7 @@ import FeaturedSection from '@/components/FeaturedSection'
 import WhyChooseUs from '@/components/WhyChooseUs'
 import MusicSchoolTestimonials from '@/components/TestimonialCards'
 import UpcomingWebinars from '@/components/UpcomingWebinars'
+import Instructors from '@/components/Instructors'
 
 export default function page() {
   return (
@@ -15,10 +16,10 @@ export default function page() {
 
       <HeroSection />
       <FeaturedSection />
-
       <WhyChooseUs />
       <MusicSchoolTestimonials/>
       <UpcomingWebinars />
+      <Instructors />
     </main>
   )
 }
