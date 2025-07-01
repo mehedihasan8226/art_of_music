@@ -21,11 +21,11 @@ const Navbar = ({ className }: { className?: string }) => {
 
          <MenuItem setActive={setActive} active={active} item="Our service"> 
               <div className="flex flex-col space-y-6">
-                <HoveredLink hrfe="/courses">All courses</HoveredLink>
-              <HoveredLink hrfe="/courses">Basic Music Theory</HoveredLink>
-              <HoveredLink hrfe="/courses">Advanced Composition</HoveredLink>
-              <HoveredLink hrfe="/courses">Songwriting</HoveredLink>
-              <HoveredLink hrfe="/courses">Music Production</HoveredLink>
+                <HoveredLink href="/courses">All courses</HoveredLink>
+              <HoveredLink href="/courses">Basic Music Theory</HoveredLink>
+              <HoveredLink href="/courses">Advanced Composition</HoveredLink>
+              <HoveredLink href="/courses">Songwriting</HoveredLink>
+              <HoveredLink href="/courses">Music Production</HoveredLink>
               </div>
             </MenuItem>
 

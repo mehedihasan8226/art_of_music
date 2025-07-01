@@ -50,6 +50,7 @@ const Footer = () => {
                 <p>Phone: (880) 1717-579233</p>
             </div>
         </div>
+        <p className='text-gray-200 text-xs text-center'>&copy; 2025 Music School All rights reserved.</p>
     </footer>
   )
 }
