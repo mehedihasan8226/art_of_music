@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <div className="relative w-full flex items-center justify-center">
+        <div className="relative text-white w-full flex items-center justify-center">
           <Navbar />
         </div>
         {children}
